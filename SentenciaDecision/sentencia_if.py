@@ -24,3 +24,10 @@ elif 13 <= edad < 18:
     print(f'Eres un adolecente. Tienes {edad} años')
 else:
     print(f'Eres menor de edad, tienes {edad} años')
+
+# Operador ternario
+
+print('*** Operador Ternario ***')
+edad = int(input('Cual es tu edad: '))
+adulto = 'si' if edad >= 18 else 'no'
+print(f'Eres un adulto {adulto}')
