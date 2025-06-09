@@ -12,12 +12,6 @@ La estructura del repositorio está dividida por temas o módulos de aprendizaje
 - `01_estructuras_control/` – Condicionales, bucles y lógica.
 - `02_funciones/` – Funciones, argumentos y retorno de valores.
 - `03_colecciones/` – Listas, tuplas, conjuntos y diccionarios.
-- `04_poo/` – Programación orientada a objetos en Python.
-- `05_modulos_y_paquetes/` – Importación, módulos propios y de terceros.
-- `06_excepciones/` – Manejo de errores y excepciones.
-- `07_otros/` – Temas adicionales: comprensión de listas, lambda, manejo de archivos, etc.
-
-*(Agrega o ajusta estas rutas según tu organización real)*
 
 ---
 
